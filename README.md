@@ -25,3 +25,8 @@ transcriptions = asr_model.transcribe([auido_file])
 print(transcriptions)
 # ['আজ সরকারি ছুটির দিন দেশের সব শিক্ষা প্রতিষ্ঠান সহ সরকারি আধা সরকারি স্বায়ত্তশাসিত প্রতিষ্ঠান ও ভবনে জাতীয় পতাকা অর্ধনমিত ও কালো পতাকা উত্তোলন করা হয়েছে']
 ```
+
+## Fine-Tuning
+
+
+## Benchmark
