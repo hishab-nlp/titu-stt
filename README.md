@@ -8,7 +8,10 @@ At Hishab, we are dedicated to improving speech-to-text conversion through a com
 Our goal is to create robust and accurate speech recognition models that can be integrated into various applications, enhancing accessibility and user experience across different domains.
 
 ## Models
-- [TituSTT-BN-FastConformer](https://huggingface.co/hishab/titu_stt_bn_fastconformer): FastConformer model for Bangla speech recognition. For training the model, the dataset we selected comprises 17.64k hours of news channel content, 688.82 hours of talk shows, 0.02 hours of vlogs, and 4.08 hours of crime shows from the Bangla language.
+
+| STT Model                                                                           | Description   | MegaBNSpeech-YT |
+|-------------------------------------------------------------------------------------|---------------|-----------------|
+| [TituSTT-BN-FastConformer](https://huggingface.co/hishab/titu_stt_bn_fastconformer) | Trained with YT news,talkshow data| 6.4/3.399       |
 
 
 ## Usage
